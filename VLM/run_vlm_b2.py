@@ -274,6 +274,7 @@ def run_model(item, prompt):
         + "사건 시간은 start_time, end_time으로 출력하세요.\n"
         + "시간 단위는 초이며 원본 영상 기준입니다.\n"
         + "서로 다른 사건은 events 배열에 기록하세요.\n"
+        + "event_type은 theft, damage, smoking, abandonment, unclear 중 하나를 사용하세요.\n"
         + "이상행동이 없으면 {\"events\": []}를 반환하세요.\n"
         + "반드시 지정된 JSON 구조만 출력하세요."
     )
