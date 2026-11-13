@@ -22,7 +22,7 @@
 - 물체에 접촉했다는 사실만으로 파손을 확정하지 마세요.
 - 물건을 내려놓았다는 사실만으로 무단 투기를 확정하지 마세요.
 - XML 라벨이나 사건 정답은 제공되지 않으며, 입력 프레임만을 근거로 판단하세요.
-- 사건 유형은 theft, damage, smoking, dumping, unclear 중에서 선택하세요.
+- 사건 유형은 theft, damage, smoking, abandonment, unclear 중에서 선택하세요.
 - 근거가 부족해 사건 유형을 확정할 수 없다면 unclear로 기록하고 그 이유를 uncertain_points에 명시하세요.
 - 이상행동을 뒷받침하는 근거가 없으면 events를 빈 배열로 반환하세요.
 - 서로 다른 사건은 events 배열에 별도로 기록하세요.
