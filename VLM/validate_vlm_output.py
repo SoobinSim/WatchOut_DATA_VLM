@@ -6,7 +6,7 @@ ALLOWED_EVENTS = {
     "theft",
     "damage",
     "smoking",
-    "dumping",
+    "abandonment",
     "unclear",
 }
 
